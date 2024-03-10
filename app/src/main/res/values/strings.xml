@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="ini_button_primary">Ini Button Primary</string>
 </resources>

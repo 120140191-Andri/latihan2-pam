@@ -6,7 +6,13 @@
         <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.13382899628252787" />
         <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_item_list.xml" value="0.33" />
-        <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/button_primary_background.xml" value="0.1" />
+        <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/button_success_background.xml" value="0.1" />
+        <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/button_warning_background.xml" value="0.1" />
+        <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Andri/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/button_success_background.xml" value="0.1787109375" />
       </map>
     </option>
   </component>
